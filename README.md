@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Hello! My name is Chelsea Yang. I am currently a student at the University of Virginia. I am majoring in Data Science with a minor in Computer Science. 
+
 <!--
 **Cy-2004/cy-2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
